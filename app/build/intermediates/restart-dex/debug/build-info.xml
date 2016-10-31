@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="12744635938743"
+    token="-7973097643554344117"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="194" />
+    <task
+        name="instant-run-dex"
+        duration="640" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="12310203828515"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="12341465957682"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/builds/debug/12341465957682/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="12634711501603"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/builds/debug/12634711501603/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="12670141838928"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/builds/debug/12670141838928/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="12729611076415"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/builds/debug/12729611076415/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="12744635938743"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

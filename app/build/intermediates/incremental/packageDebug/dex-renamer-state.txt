@@ -1,0 +1,7 @@
+#Sun Oct 30 03:36:36 GMT 2016
+base.0=/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e9dd6e07c07fdbec1956dbead4c5aa89e241286
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f4d9f8f7e89c412bac1afe8a06668da1ee5cd68/classes.dex
+base.1=/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f4d9f8f7e89c412bac1afe8a06668da1ee5cd68
+file.0=/Users/apple/Desktop/UCD/Android/Lynda - Adding Google Maps to Android Apps/Exercise Files/Ch04/04_02/CurrentLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e9dd6e07c07fdbec1956dbead4c5aa89e241286/classes.dex
